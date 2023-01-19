@@ -11,19 +11,19 @@ export const rounds: Round[] = [
   {
     id: "gaj",
     image: require("./cat.jpg"),
-    options: ["cat", "dog", "pat", "vac"],
-    correctOption: "cat",
+    options: ["Cat", "Dog", "Pato", "Vacuno"],
+    correctOption: "Cat",
   },
   {
     id: "hsy",
     image: require("./oconnell.jpg"),
-    options: ["hed", "o'connell", "pregat", "uno"],
-    correctOption: "o'connell",
+    options: ["Molly Malone", "O'connell", "Wellington", "Papal Cross"],
+    correctOption: "O'connell",
   },
   {
     id: "ops",
     image: require("./spire.jpg"),
-    options: ["hed", "yhh", "the spire", "lelel"],
-    correctOption: "the spire",
+    options: ["Connolly", "Jim Larkin", "The Spire", "The Famine Memorial"],
+    correctOption: "The Spire",
   },
 ];
